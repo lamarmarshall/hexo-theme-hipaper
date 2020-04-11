@@ -22,11 +22,11 @@ favicon: css/images/favicon.ico
 # Put your avatar.jpg into `hexo-site/themes/hipaper/source/` directory.
 # url is target link (E.g. `url: https://hexo.io/logo.svg` or `url: css/images/mylogo.jpg`)
 avatar: 
-  enable: false
-  width: 124
-  height: 124
-  bottom: 10
-  url: https://hexo.io/logo.svg
+  enable: true
+  width: 300
+  height: 150
+  bottom: -1
+  url: http://localhost:4000/images/logo.png
 
 
 # AboutPage background, support multiple images.
